@@ -12,7 +12,7 @@ Minimalistic, 0 dependency terminal concentration tool implementing pomodoro tec
 
 ### Usage
 
-Run `npx pomodoro-js` in your terminal.
+Run `npx cli-pomodoro-js` in your terminal.
 
 ### Controls
 

@@ -1,5 +1,5 @@
 {
-  "name": "pomodoro-js",
+  "name": "cli-pomodoro-js",
   "version": "1.0.0",
   "description": "Zero dependency configurable pomodoro CLI app",
   "main": "src/index.js",
@@ -9,7 +9,7 @@
   },
   "type": "module",
   "bin": {
-    "pomodoro-js": "src/index.js"
+    "cli-pomodoro-js": "src/index.js"
   },
   "repository": {
     "type": "git",
