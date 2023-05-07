@@ -1,11 +1,13 @@
 {
   "name": "pomodoro-js",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Zero dependency configurable pomodoro CLI app",
   "main": "src/index.js",
   "scripts": {
+    "start": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "type": "module",
   "bin": {
     "pomodoro-js": "src/index.js"
   },
